@@ -2,7 +2,7 @@
     <string name="app_name">iOrder</string>
 
     <!-- Strings related to login -->
-    <string name="prompt_email">Email or Employee ID</string>
+    <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
     <string name="action_sign_in">Log In</string>
     <string name="action_sign_in_short">Sign in</string>
@@ -13,4 +13,12 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="sign_up_link">No account? Sign up</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_surname">Last name</string>
+    <string name="prompt_confirm_password">Confirm password</string>
+    <string name="prompt_eid">Employee ID</string>
+    <string name="sign_up">Sign up</string>
+
 </resources>

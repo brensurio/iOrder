@@ -13,6 +13,7 @@
         <item name="android:textColorPrimaryInverse">@color/primary_text_material_dark</item>
         <item name="colorButtonNormal">@color/colorButtonNormal</item>
     </style>
+
     <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
@@ -25,5 +26,9 @@
         <item name="android:textColorPrimaryInverse">@color/primary_text_material_dark</item>
         <item name="colorButtonNormal">@color/colorButtonNormal</item>
     </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
 </resources>
